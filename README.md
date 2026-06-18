@@ -1,7 +1,7 @@
 **Git Commands**
 
-git init          # Initialize repository
-git clone         # Copy repository
+# git init          # Initialize repository
+# git clone         # Copy repository
 git status        # Check status
 git add           # Add to staging
 git commit        # Save changes
