@@ -1,7 +1,7 @@
-**Git Commands**
-
-# git init          # Initialize repository
-# git clone         # Copy repository
+# **Git Commands**
+```
+git init          # Initialize repository
+git clone         # Copy repository
 git status        # Check status
 git add           # Add to staging
 git commit        # Save changes
@@ -14,3 +14,4 @@ git merge         # Merge branches
 git log           # Commit history
 git remote -v     # Show remotes
 git config        # Configure Git
+```
